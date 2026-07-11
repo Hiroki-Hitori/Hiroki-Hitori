@@ -3,7 +3,7 @@
 ###
 
 <p align="left">
-I have been working with programming for 6 years but started with C++ recently. I have an intermediate level and am always looking to deepen my knowledge of the language.Regarding tools, I work with Linux. My IDE is QT Creator and Godot. I use cmake for QT 5 and 6, and for 3D models I use Blender, for my musics I use LMMS.</p>
+I'm a C++ developer, basically I use C++ to delevop my owns tools and scripts.</p>
 <hr> 
 
 
