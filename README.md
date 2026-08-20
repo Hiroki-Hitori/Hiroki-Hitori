@@ -2,11 +2,6 @@
 
 ###
 
-<p align="left">
-I'm a C++ developer, basically I use C++ to delevop my owns tools and scripts.</p>
-<hr> 
-
-
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fedora/fedora-original.svg" height="60" alt="fedora logo"  />
   <img width="12" />
